@@ -1,1 +1,26 @@
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Uncomment if you have performance issues with large files
+# .idea/**/contentModel.xml
+
+# OS-specific
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+out/
